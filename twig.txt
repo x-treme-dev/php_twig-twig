@@ -1,0 +1,16 @@
+создать проект c библиотекой twig
+
+В командной строке:
+   mkdir my_project
+   cd my_project
+   composer init
+   composer require "twig/twig:^3.0"
+   php -v
+   composer self-update (если нужно)
+   
+
+   
+
+   
+
+     
